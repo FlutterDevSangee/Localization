@@ -1,6 +1,13 @@
-# localization
+# Localization
 
-A new Flutter project.
+Localization using GetX without localization plugin
+
+# Output 
+
+![Localization](https://github.com/FlutterDevSangee/Localization/assets/130139011/a6816ce9-2635-4757-9067-0a01b10d0d33)
+
+
+
 
 ## Getting Started
 
